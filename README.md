@@ -1,1 +1,5 @@
-# project-docs
+
+# Project Notes
+
+Work in progress.
+Nothing finalized yet.
