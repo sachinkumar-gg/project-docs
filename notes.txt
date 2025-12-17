@@ -1,0 +1,4 @@
+You reached the correct location.
+This confirms the steganography worked.
+Proceed to the next challenge.
+
